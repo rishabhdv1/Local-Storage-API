@@ -1,0 +1,6 @@
+.r_search_input:focus +.r_search{
+    display: block; /*Show*/
+}
+.r_search{
+    display: none; /*Hide*/
+}
